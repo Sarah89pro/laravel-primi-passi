@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{ route('welcome')}}">Homepage</a>
+                    <a href="{{ route('home')}}">Homepage</a>
                     <a href="{{ route('about')}}">About</a>
                     <a href="{{ route('news')}}">News</a>
                 </div>
